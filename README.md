@@ -5,20 +5,14 @@ Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada
 
 ## **🚀 Habilidades y Conocimientos**
  
-| Lenguajes y Tecnologías             | Herramientas de Desarrollo      |
-| ----------------------------------- | ------------------------------- |
-| JavaScript (Básico)                 | Git & GitHub                    |
-| HTML y CSS                          | Visual Studio Code              |
-| React & Redux                       | Thunder Client                  |
-| Node.js & Express                   | Render                          |
-| Sequelize con PostgreSQL            |                                 |
+|     ### **Lenguajes y Tecnologías**      |    ### **Herramientas de Desarrollo**      |      ### **Certificaciones y Cursos**      |
+| ---------------------------------- | ------------------------------------ | ---------------------------------- | 
+| JavaScript (Básico)                | Git & GitHub                         | PMP Certified                      |
+| HTML y CSS                         | Visual Studio Code                   | Build Responsive Real-World Websites <br> with HTML and CSS|
+| React & Redux                      | Thunder Client                       | Curso avanzado de JavaScript       |
+| Node.js & Express                  | Render                               | Certificado oficial EF SET (B2 Upper Intermediate) |                                
+| Sequelize con PostgreSQL           | Figma (Diseño de Interfaces)         |                                    |
 
-
-- Certificaciones y Cursos:
-  - PMP Certified
-  - Curso en Udemy: "Build Responsive Real-World Websites with HTML and CSS"
-  - Curso en Udemy (En progreso): Curso avanzado de JavaScript
-  - Próximo: Curso de Python
 
 ## **💻 Proyectos**
   - Rick and Morty Project (Proyecto Colectivo): Exploración de personajes de la serie Rick and Morty usando React y Redux.
@@ -28,8 +22,10 @@ Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada
 
 ## **📚 En Aprendizaje Continuo**
 Estoy en una constante búsqueda de mejorar mis habilidades y aprender nuevas tecnologías. Actualmente estoy enfocada en:
-Avanzar en mi conocimiento de JavaScript con un curso intensivo en Udemy.
-Pronto iniciaré un curso en Python para expandir mis conocimientos en programación.
+1. Avanzar en mi conocimiento de JavaScript con un curso intensivo en Udemy.
+2. Explorar y aprender Tailwind CSS para mejorar el diseño y la implementación de interfaces web.
+3. Profundizar en Redux Toolkit para manejar el estado en aplicaciones React de manera más eficiente.
+4. Iniciar un curso en Django con Python para expandir mis habilidades en desarrollo backend.
 
 ## **🌟 PMP Certificada**
 Además de mi formación técnica, cuento con la certificación PMP (Project Management Professional), lo cual me permite aplicar una sólida gestión de proyectos a cualquier desafío que enfrento.
