@@ -38,6 +38,6 @@ Además de mi formación técnica, cuento con la certificación PMP (Project Man
 Quiero seguir creciendo como desarrolladora web, aportando mi conocimiento y aprendiendo de los demás. Estoy abierta a colaborar en proyectos desafiantes y a seguir ampliando mis habilidades en el desarrollo web.
 
 ## **📫 ¡Conectemos!**
-Si quieres saber más sobre mí, no dudes en visitar mi en [LinkedIn](https://www.linkedin.com/in/nydia-massiel-sanchez-16318393/) o contactarme a través de massiel.sanchez@sc-consulting.online 
+Si quieres saber más sobre mí, no dudes en [visitar mi LinkedIn](https://www.linkedin.com/in/nydia-massiel-sanchez-16318393/) o contactarme a través de massiel.sanchez@sc-consulting.online 
 
 
