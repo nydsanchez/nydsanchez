@@ -1,6 +1,7 @@
-# **Hola 👋 soy Nydia Massiel Sanchez!**
+# **Hola 👋 soy Nydia Massiel Sanchez C.!**
 
-Desarrolladora web en formación, apasionada por aprender y mejorar mis habilidades en el desarrollo web. Actualmente estoy cursando un bootcamp de Fullstack Web Developer en Henry Academy y estoy emocionada por explorar más sobre el desarrollo de aplicaciones web. Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada) con mis nuevas habilidades técnicas para contribuir a proyectos significativos y de alta calidad.
+Project Manager y desarrolladora web en formación, apasionada por aprender y mejorar mis habilidades en el desarrollo web. Actualmente estoy cursando un bootcamp de Fullstack Web Developer en Henry Academy y estoy emocionada por explorar más sobre el desarrollo de aplicaciones web. 
+Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada) con mis nuevas habilidades técnicas para contribuir a proyectos significativos y de alta calidad.
 
 ## **🚀 Habilidades y Conocimientos**
  
@@ -37,6 +38,6 @@ Además de mi formación técnica, cuento con la certificación PMP (Project Man
 Quiero seguir creciendo como desarrolladora web, aportando mi conocimiento y aprendiendo de los demás. Estoy abierta a colaborar en proyectos desafiantes y a seguir ampliando mis habilidades en el desarrollo web.
 
 ## **📫 ¡Conectemos!**
-Si quieres saber más sobre mí, no dudes en visitar mi LinkedIn o contactarme a través de massiel.sanchez@sc-consulting.online 
+Si quieres saber más sobre mí, no dudes en visitar mi en [LinkedIn](https://www.linkedin.com/in/nydia-massiel-sanchez-16318393/) o contactarme a través de massiel.sanchez@sc-consulting.online 
 
 
