@@ -5,7 +5,7 @@ Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada
 
 ## **🚀 Habilidades y Conocimientos**
  
-|     ### **Lenguajes y Tecnologías**      |    ### **Herramientas de Desarrollo**      |      ### **Certificaciones y Cursos**      |
+|      **Lenguajes y Tecnologías**      |     **Herramientas de Desarrollo**      |       **Certificaciones y Cursos**      |
 | ---------------------------------- | ------------------------------------ | ---------------------------------- | 
 | JavaScript (Básico)                | Git & GitHub                         | PMP Certified                      |
 | HTML y CSS                         | Visual Studio Code                   | Build Responsive Real-World Websites <br> with HTML and CSS|
