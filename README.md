@@ -3,19 +3,15 @@
 Desarrolladora web en formación, apasionada por aprender y mejorar mis habilidades en el desarrollo web. Actualmente estoy cursando un bootcamp de Fullstack Web Developer en Henry Academy y estoy emocionada por explorar más sobre el desarrollo de aplicaciones web. Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada) con mis nuevas habilidades técnicas para contribuir a proyectos significativos y de alta calidad.
 
 ## **🚀 Habilidades y Conocimientos**
+ 
+| Lenguajes y Tecnologías             | Herramientas de Desarrollo      |
+| ----------------------------------- | ------------------------------- |
+| JavaScript (Básico)                 | Git & GitHub                    |
+| HTML y CSS                          | Visual Studio Code              |
+| React & Redux                       | Thunder Client                  |
+| Node.js & Express                   | Render                          |
+| Sequelize con PostgreSQL            |                                 |
 
-- Lenguajes y Tecnologías:
-  - JavaScript (Básico)
-  - HTML y CSS
-  - React & Redux
-  - Node.js & Express
-  - Sequelize con PostgreSQL
-
-- Herramientas de Desarrollo:
-  - Git & GitHub
-  - Visual Studio Code
-  - Thunder Client
-  - Render
 
 - Certificaciones y Cursos:
   - PMP Certified
