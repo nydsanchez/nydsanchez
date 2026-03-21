@@ -7,7 +7,7 @@ Mi objetivo es combinar mi experiencia en gestión de proyectos (PMP certificada
  
 |      **Lenguajes y Tecnologías**      |     **Herramientas de Desarrollo**      |       **Certificaciones y Cursos**      |
 | ---------------------------------- | ------------------------------------ | ---------------------------------- | 
-| JavaScript (Básico)                | Git & GitHub                         | PMP Certified                      |
+| JavaScript (intermedio)                | Git & GitHub                         | PMP Certified                      |
 | HTML y CSS                         | Visual Studio Code                   | Build Responsive Real-World Websites <br> with HTML and CSS|
 | React & Redux                      | Thunder Client                       | Curso avanzado de JavaScript       |
 | Node.js & Express                  | Render                               | Certificado oficial EF SET (B2 Upper Intermediate) |                                
